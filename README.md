@@ -23,6 +23,7 @@ Looking ahead, the template function holds significant potential for future expa
 #
 ### Keyboard Controls
 
+```
 SPACE: Pause or resume the game.
 WASD: Move the snake up, down, left, or right.
 Q/E with W/S: Move the snake diagonally.
@@ -32,6 +33,7 @@ P: Save the current drawing as an image file.
 M: Return to the main menu from the pause menu.
 1-9: Add predefined template drawings.
 X: Clear the current drawing.
+```
 
 #
 ![Snake Pencil Examples](https://github.com/user-attachments/assets/30d74b07-a0db-4a48-9ee5-c662a9af5bbc)
