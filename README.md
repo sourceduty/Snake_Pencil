@@ -14,6 +14,26 @@ The potential for automating the Snake Pencil is vast, particularly in the realm
 Moreover, expanding the automation capabilities to include adaptive drawing behaviors could significantly enhance the application's functionality. The snake could adjust its speed, direction, and drawing intensity based on the complexity of the desired template, ensuring smooth and precise rendering of shapes. Additionally, implementing predictive algorithms might allow the snake to anticipate user intentions, such as starting a particular pattern, and adjust its movement accordingly to facilitate seamless drawing experiences. These advancements would transform the Snake Pencil into a more intelligent and responsive tool, catering to both casual users and those seeking more sophisticated drawing solutions.
 
 #
+### Automatic Templates
+
+The template function within the Snake Drawing Pad serves as a pivotal feature that enhances the creative capabilities of the application. By allowing users to insert predefined shapes such as hearts, cubes, smiley faces, stars, and various polygons through simple key presses (1 through 9), the template function streamlines the drawing process, enabling the creation of complex and recognizable patterns with minimal effort. This functionality not only accelerates the drawing workflow but also inspires users to experiment with different shapes and designs, fostering a more engaging and enjoyable artistic experience. The seamless integration of these templates ensures that users can effortlessly incorporate structured elements into their freeform snake trails, blending spontaneity with precision to produce visually appealing artwork.
+
+Looking ahead, the template function holds significant potential for future expansions that could further elevate the Snake Drawing Pad's utility and appeal. One promising avenue is the introduction of customizable templates, where users can create and save their own unique shapes to be used within the application. Additionally, incorporating a broader library of intricate and diverse templates would cater to a wider range of artistic preferences and styles. Leveraging advanced technologies such as machine learning could also enable the development of intelligent templates that adapt to the user's drawing patterns, offering suggestions or auto-completing shapes based on the current design context. Furthermore, enabling the import of external vector graphics as templates would allow for greater flexibility and personalization, empowering users to bring their bespoke creations into the Snake Drawing Pad environment. These expansions would not only enrich the user experience but also transform the template function into a dynamic tool that continuously evolves to meet the creative aspirations of its community.
+
+#
+### Keyboard Controls
+
+SPACE: Pause or resume the game.
+WASD: Move the snake up, down, left, or right.
+Q/E with W/S: Move the snake diagonally.
+Shift: Hold to move the snake faster.
+C: Open the color menu to change the snake’s drawing color.
+P: Save the current drawing as an image file.
+M: Return to the main menu from the pause menu.
+1-9: Add predefined template drawings.
+X: Clear the current drawing.
+
+#
 ![Snake Pencil Examples](https://github.com/user-attachments/assets/30d74b07-a0db-4a48-9ee5-c662a9af5bbc)
 
 #
