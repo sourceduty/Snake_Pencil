@@ -31,7 +31,7 @@ Enhancing the user experience further, Snake Pencil incorporates comprehensive U
 ```
 
 #
-### Letters & Words
+### Letters & Words Concept
 
 Using Snake Pencil, users can effortlessly create intricate letter templates and compose words through intuitive line-drawing mechanisms. The program offers a variety of predefined letter templates accessible via simple keyboard shortcuts, allowing users to insert standardized shapes that form the basis of each character. This feature streamlines the drawing process, enabling both beginners and experienced artists to construct clear and consistent lettering with ease. Additionally, the mirroring functionality ensures that each letter is symmetrically balanced, enhancing the aesthetic quality of the text. By combining manual input with automated template insertion, Snake Pencil facilitates the seamless assembly of words and phrases, making it an ideal tool for designing logos, signage, and artistic typography. The ability to customize and integrate these templates further empowers users to personalize their creations, fostering creativity and precision in every line drawn.
 
