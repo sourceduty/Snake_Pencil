@@ -14,6 +14,33 @@ The potential for automating the Snake Pencil is vast, particularly in the realm
 Moreover, expanding the automation capabilities to include adaptive drawing behaviors could significantly enhance the application's functionality. The snake could adjust its speed, direction, and drawing intensity based on the complexity of the desired template, ensuring smooth and precise rendering of shapes. Additionally, implementing predictive algorithms might allow the snake to anticipate user intentions, such as starting a particular pattern, and adjust its movement accordingly to facilitate seamless drawing experiences. These advancements would transform the Snake Pencil into a more intelligent and responsive tool, catering to both casual users and those seeking more sophisticated drawing solutions.
 
 #
+### V1.2
+
+![Example](https://github.com/user-attachments/assets/b4ad9cad-f8b9-40d8-a5bf-6f53e16086f0)
+
+Snake Pencil is an innovative drawing application that redefines the creative process by blending traditional manual input with advanced automated features. Built using the Kivy framework, Snake Pencil offers users a unique platform where they can control a "snake-like" cursor using keyboard inputs such as W, A, S, D for directional movements, and Q/E for diagonal motions. The inclusion of a fast mode, activated by holding the Shift key, allows for dynamic and swift drawing, catering to both precision and speed. This intuitive control scheme ensures that artists of all skill levels can effortlessly navigate the canvas, making the act of drawing both engaging and accessible.
+
+One of the standout features of Snake Pencil is its ability to mirror user input with a contrasting color, adding a layer of symmetry and complexity to the artwork without additional effort from the user. As users draw, every stroke is automatically reflected across a vertical axis, creating visually striking patterns that enhance the aesthetic appeal of the creations. This mirroring capability is complemented by a palette of predefined templates, such as hearts, stars, and geometric shapes, which can be seamlessly integrated into the drawing through simple key presses (1-9). Additionally, the application supports automatic drawing modes like circles, figure eights, spirals, and random patterns, which can be toggled on or off via the user interface. These features not only expand the creative possibilities but also inspire users to experiment with intricate designs and symmetrical art effortlessly.
+
+Enhancing the user experience further, Snake Pencil incorporates comprehensive UI elements that facilitate easy interaction and customization. Users can select their preferred drawing colors from a vibrant palette, ensuring that their artwork reflects their personal style. The application also includes functionality to save full-screen screenshots, capturing both the drawing and the surrounding UI components, making it simple to share creations with others. Whether engaged in manual drawing, utilizing automatic patterns, or integrating mirrored designs, Snake Pencil provides a harmonious blend of control and automation. This synergy between user input and automated assistance fosters a collaborative environment where creativity is amplified, making Snake Pencil a powerful tool for artists seeking both precision and artistic flair in their digital creations.
+
+#
+### Keyboard Controls
+
+```
+# SPACE: Pause or resume the game.
+# WASD: Move the snake up, down, left, or right.
+# Q/E with W/S: Move the snake diagonally.
+# Shift: Hold to move the snake faster.
+# C: Open the color menu to change the snake’s drawing color.
+# P: Save the current drawing as an image file.
+# M: Return to the main menu from the pause menu.
+# 1-9: Add predefined template drawings.
+# X: Clear the current drawing.
+# Auto Mode Toggle and Pattern Selection
+```
+
+#
 ### Technical Potential
 
 Snake Pencil is a versatile application that intersects multiple technical domains, making it a valuable tool across various technical job roles. For Software Developers and Engineers, Snake Pencil serves as an exemplary project to demonstrate proficiency in Python and the Kivy framework, showcasing skills in GUI development, event handling, and real-time graphics rendering. Additionally, Game Developers can leverage this program as a foundation for creating interactive and engaging games that blend traditional gameplay mechanics with creative drawing elements. The integration of AI-driven features and sensor inputs further makes Snake Pencil relevant for roles in AI and Machine Learning, where developers can experiment with generative algorithms, pattern recognition, and adaptive learning to enhance user interactions and automate creative processes.
@@ -60,21 +87,6 @@ Integrating sensors with AI-control into Snake Pencil opens up a myriad of possi
 In the dynamic environment of Snake Pencil, users engage with artificial intelligence in a seamless, real-time collaboration that enhances their creative expression. As users navigate the drawing pad, the AI acts as an intuitive partner, anticipating movements and suggesting complementary patterns or shapes based on the user's input and drawing style. This interactive synergy allows for an immersive artistic experience where the AI adapts to individual preferences, offering personalized templates or dynamically adjusting the snake's movements to create intricate, harmonious designs. Whether a novice artist exploring basic shapes or a seasoned designer experimenting with complex structures, the AI-driven assistance in Snake Pencil fosters a fluid and responsive creative process, making art creation both accessible and deeply engaging.
 
 Moreover, communication with the AI in Snake Pencil transcends traditional input methods, leveraging natural language processing and gesture recognition to interpret and respond to user commands effortlessly. Users can simply articulate their creative intentions or perform specific gestures to guide the AI in generating desired patterns, modifying colors, or altering movement dynamics in real-time. This bidirectional communication fosters a collaborative environment where the boundaries between human creativity and machine intelligence blur, enabling users to experiment and innovate without technical constraints. The real-time feedback and adaptability of the AI not only streamline the artistic workflow but also inspire users to push the limits of their imagination, making Snake Pencil a revolutionary tool for interactive and intelligent artistic creation.
-
-#
-### Keyboard Controls
-
-```
-SPACE: Pause or resume the game.
-WASD: Move the snake up, down, left, or right.
-Q/E with W/S: Move the snake diagonally.
-Shift: Hold to move the snake faster.
-C: Open the color menu to change the snake’s drawing color.
-P: Save the current drawing as an image file.
-M: Return to the main menu from the pause menu.
-1-9: Add predefined template drawings.
-X: Clear the current drawing.
-```
 
 #
 ### Advanced Interaction
