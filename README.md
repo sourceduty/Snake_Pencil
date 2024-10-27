@@ -96,6 +96,10 @@ Finally, rigorous testing, iterative development, and user feedback integration 
 ![Snake Pencil Examples](https://github.com/user-attachments/assets/30d74b07-a0db-4a48-9ee5-c662a9af5bbc)
 
 #
+
+> Alex: "*Visually collaborating with AI using line drawings is new.*"
+
+#
 ### Related Links
 
 [Python](https://github.com/sourceduty/Python)
